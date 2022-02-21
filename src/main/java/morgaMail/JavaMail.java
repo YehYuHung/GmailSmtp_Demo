@@ -24,8 +24,7 @@ public class JavaMail {
 	private static final java.lang.String SENDERMAIL = "mail.username";
 	private static final java.lang.String SENDERPWD = "mail.password";
 	private static final java.lang.String RECIPIENTMAIL = "mail.customer";
-	private static final java.lang.String SUBJECT = "mail.subject"
-			+ "";
+	private static final java.lang.String SUBJECT = "mail.subject";
 	private static final java.lang.String MAILTEXT = "mail.txt";
 	
 	public static void main(String[] args) {
